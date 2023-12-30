@@ -1,2 +1,2 @@
 # Conversor-moedas
- Página criada com CSS, HTML, JavaScript e VUE.js.
+ Página criada com CSS, HTML, JavaScript e Vue.js.
